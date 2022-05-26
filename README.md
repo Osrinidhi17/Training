@@ -1,2 +1,2 @@
 # Training
-All Commits
+All Commits STRINGS AND ARRAYS
